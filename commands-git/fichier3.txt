@@ -1,1 +1,1 @@
-Pour pull, la commande est " git-pull "
+Pour pull, la commande est " git pull "
